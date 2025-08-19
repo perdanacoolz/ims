@@ -41,7 +41,7 @@
             <!-- mini logo for sidebar mini 50x50 pixels -->
             <span class="logo-mini"><b>A</b>LT</span>
             <!-- logo for regular state and mobile devices -->
-            <span class="logo-lg"><b>Informasi</b>Inventory</span>
+            <span class="logo-lg"><b>IMS</b></span>
         </a>
 
         <!-- Header Navbar -->
@@ -118,11 +118,11 @@
     <footer class="main-footer">
         <!-- To the right -->
         <div class="pull-right hidden-xs">
-            Anything you want
+            Inventory V.1.0
         </div>
         <!-- Default to the left -->
         <?php $date = date('Y')?>
-        <strong>Copyright &copy; {{$date}} <a href="#">Revan</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; {{$date}} <a href="#">Perdana</a>.</strong> All rights reserved.
     </footer>
 
     <!-- Control Sidebar -->
